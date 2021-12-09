@@ -53,7 +53,7 @@ for (let i = 0; i < team.length; i++) {
       <h3>${element.name}</h3>
       <p>${element.role}</p>
     </div>
-  </div >;`
+  </div >`
 
   container.innerHTML += cardTemplate;
 }
